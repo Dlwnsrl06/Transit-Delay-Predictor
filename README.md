@@ -1,7 +1,7 @@
 # Transit Delay Predictor
 
 ## Overview
-This is my first end-to-end data science project. It uses machine learning to predict public transport delays based on external factors like weather conditions and city events. 
+This project uses machine learning to predict public transport delays based on external factors like weather conditions and city events. 
 
 ## Dataset
 The data for this project was sourced from Kaggle:
